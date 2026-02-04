@@ -17,6 +17,8 @@ public class KeyboardTest {
 
         String name = console.nextLine(); //saves a line typed to the variable
         System.out.println("Welcome, " + name);
-    }
+
+console.close();
+         }
 
 }
