@@ -17,7 +17,6 @@ public class Lesson03Question2 {
                                                                                             //(2°C × 9/5) + 32 
 
         TempetureInCelsiusScanner.close();
-
     }
 
 }
